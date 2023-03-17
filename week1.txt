@@ -1,0 +1,2 @@
+dây là file week1.txt 
+thu?c branch : week1
